@@ -119,3 +119,11 @@ a:active,a:focus,a:hover{color:#F7882F}
 .btn-secondary{background-color:#F7C331;border-color:#F7C331}
 
 .btn-secondary:active,.btn-secondary:focus,.btn-secondary:hover{background-color:#1a252f;border-color:#1a252f} 
+
+.gh{
+    font-size: 28px;
+}
+
+.jumbotron{
+    background-color: #6B7A8F;
+}
